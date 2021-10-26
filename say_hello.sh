@@ -1,1 +1,1 @@
-Hello Jenkins from github
+echo "Hello Jenkins from github"
